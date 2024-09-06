@@ -1,0 +1,15 @@
+.botao-relatorio {
+    font-family: 'Roboto', sans-serif;
+    border-color: #004b9f;
+    border-radius: 0.2rem;
+    color: #004b9f;
+    background-color: #fff;
+    margin-bottom: 25px;
+    padding: 20px 30px 20px 30px;
+}
+
+.botao-relatorio:hover {
+    background-color: #004b9f;
+    border-color: #004b9f;
+    color: #fff;
+}

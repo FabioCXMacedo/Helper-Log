@@ -1,0 +1,106 @@
+body {
+    background-color: rgb(239, 244, 250);
+}
+
+.topo {
+    background-color: rgb(239, 244, 250);
+    padding: 10px;
+    border-bottom: solid 1px #004b9f;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.topo2 {
+    background-color: rgb(239, 244, 250);
+    border-bottom: solid 1px #004b9f;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1000;
+    text-align: center;
+}
+
+.logo img {
+    width: 80px;
+    align-items: center;
+}
+
+.login-top {
+    text-align: right;
+    padding: 10px;
+}
+
+.btn {
+    border-color: #004b9f;
+    color: #004b9f;
+    margin-bottom: 25px;
+}
+
+.btn:hover {
+    background-color: #004b9f;
+    border-color: #004b9f;
+    color: #fff;
+}
+
+.banner {
+    padding-right: 0;
+}
+
+.home {
+    background-color: rgb(239, 244, 250);
+    margin-top: 70px;
+}
+
+.erro {
+    font-size: 30px;
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.aviso {
+    font-size: 30px;
+    background-color: yellow;
+    text-align: center;
+}
+
+.sucesso {
+    font-size: 30px;
+    background-color: green;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.botao-mensagens {
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 30px;
+
+}
+
+.botao-mensagens .btn {
+    font-size: 35px;
+}
+
+.filter-popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid #ccc;
+    background-color: #fff;
+    padding: 20px;
+    z-index: 1;
+}
+
+.popup-content {
+    text-align: center;
+}
+

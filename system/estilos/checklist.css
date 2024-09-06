@@ -1,0 +1,29 @@
+
+.usuario {
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align: end;
+}
+
+.checklist {
+    margin-top: 140px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.checklist-adm {
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+}
+
+.form-control:focus {
+    border-color: #004b9f;
+    box-shadow: none;
+}
+
+.check-form {
+    margin-bottom: 20px;
+}
